@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# WavePortal Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic decentralized application built with Solidity and Hardhat. Connect your test wallet and wave with a message.
+Live link for the project https://waveportal-starter-project.shivang-maniman.repl.co
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
